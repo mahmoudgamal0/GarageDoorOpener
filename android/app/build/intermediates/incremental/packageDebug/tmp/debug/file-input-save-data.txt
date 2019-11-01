@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 27 15:44:03 EET 2019
+0.baseType=DIRECTORY
+0.base=/home/mahmoud/AndroidStudioProjects/GarageDoorOpener1/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

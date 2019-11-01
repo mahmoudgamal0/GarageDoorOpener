@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GarageDoorOpener</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="open_close_alex_apos_s_bay">Open/Close Alex&amp;apos;s Bay</string>
+
+</resources>
